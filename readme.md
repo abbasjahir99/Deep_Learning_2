@@ -52,14 +52,9 @@ The stark performance gap highlights the limitation of GCNs in handling heteroph
 ## Visualization
 The homophily and heterophily ratios are visualized as bar charts for easy comparison between datasets.
 
-License
+## License
 This project is licensed under the MIT License.
 
-vbnet
-Copy
-Edit
-
-Let me know if you'd like further modifications!
 
 
 
